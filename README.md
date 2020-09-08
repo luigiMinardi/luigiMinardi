@@ -1,16 +1,17 @@
-### Hi there 👋
-
+### :octocat:Hi there 👋
 <!--
 **luigiMinardi/luigiMinardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭⠀I’m currently working on Discord Bots
+- 🌱⠀I’m currently learning Python for Data Science
+- 🤔⠀I’m looking for help with Machine Learning
+- 💬⠀Ask me about Bootstrap or discord.js and probably I can help you
+- 📧⠀How to reach me: lugminsinlag@gmail.com
+- ➕⠀More social networks: 
+  * 🎓⠀[LinkedIn](https://www.linkedin.com/in/lugmin)
+  * 🐦⠀[Twitter](https://twitter.com/lugmin)
+  * 📷⠀[Instagram](https://www.instagram.com/lugmin_)
+- 🎨⠀Hobbie: Draw
+
