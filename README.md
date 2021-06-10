@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭⠀I’m currently working on Discord Bots
-- 🌱⠀I’m currently learning Python for Data Science
+- 🔭⠀I’m currently working on an Mobile App
+- 🌱⠀I’m currently learning Data Science with Python
 - 🤔⠀I’m looking for help with Machine Learning
-- 💬⠀Ask me about Bootstrap or discord.js and probably I can help you
+- 💬⠀Ask me about Bootstrap or Python and probably I can help you
 - 📧⠀How to reach me: lugminsinlag@gmail.com
 - ➕⠀More social medias: 
   * [![Twitter][1.1]][1]⠀[Twitter](https://twitter.com/lugmin)
