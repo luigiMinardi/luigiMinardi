@@ -50,6 +50,7 @@ I'm a full stack developer, with knowledge in many things and specialized in pyt
 #
   <img height='125em' src="https://github-readme-stats.vercel.app/api/wakatime?username=@lugmin&custom_title=Languages%20That%20I'm%20Working%20This%20Week&range=last_7_days&layout=compact&theme=radical&border_radius=2%&border_color=808080">
   <img height='125em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=luigiMinardi&theme=radical'>
-  <!-- ![Snake animation](https://github.com/luigiMinardi/luigiMinardi/blob/output/github-contribution-grid-snake.svg) -->
+
+  ![Snake animation dark](https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Snake animation light](https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
 
