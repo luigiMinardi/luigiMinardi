@@ -4,7 +4,7 @@
 </div>
 
 ### Here I share my open source projects to the world. Make sure to take a glance in some of it, I know that you'll like something.
-I'm a full stack developer, with knowledge in many things.
+I'm a backend developer, with knowledge in many things.
 <div align='center'>
 
   <a href='https://github.com/luigiMinardi'>
