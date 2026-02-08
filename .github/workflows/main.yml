@@ -38,7 +38,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   trophy:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
       contents: write
