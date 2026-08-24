@@ -68,6 +68,13 @@ jobs:
           options: username=luigiMinardi&repo=reaction-test
           path: dist/pin-luigiMinardi-reaction-test.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      # Github Readme Streak Stats generation
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=radical
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       # push the svgs into the branch
       - name: push *.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
