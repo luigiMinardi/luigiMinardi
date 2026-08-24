@@ -13,7 +13,8 @@ I'm a backend developer, with knowledge and interests in multiple things.
   </a>
 
   <a href='https://github.com/luigiMinardi'>
-    <img src='https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/trophy.svg'>
+    <!--img src='https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/trophy.svg'-->
+    <img src='https://trophygithubreadmelang.cybee.dpdns.org/?username=luigiminardi&row=1&theme=radical'>
   </a>
 
 ---
@@ -25,10 +26,10 @@ I'm a backend developer, with knowledge and interests in multiple things.
 <div align='center'>
 
   ## Contact me:
-  <a href="https://www.linkedin.com/in/lugmin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luigiminardi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 #
-  <img height='180em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=luigiMinardi&theme=radical'>
+  <img height='180em' src= 'https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/streak.svg'>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luigiMinardi/luigiMinardi/output/github-contribution-grid-snake-dark.svg" />
